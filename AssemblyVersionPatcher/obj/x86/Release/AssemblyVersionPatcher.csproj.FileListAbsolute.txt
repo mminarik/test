@@ -1,0 +1,4 @@
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\bin\Release\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\bin\Release\AssemblyVersionPatcher.pdb
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\obj\x86\Release\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\obj\x86\Release\AssemblyVersionPatcher.pdb

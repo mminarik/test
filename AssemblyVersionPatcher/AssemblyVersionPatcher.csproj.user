@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>-number:3 Symfonie NG 1.0.790.581fbfd136ea75f8bed113a391a141a101965f0d</StartArguments>
+  </PropertyGroup>
+</Project>

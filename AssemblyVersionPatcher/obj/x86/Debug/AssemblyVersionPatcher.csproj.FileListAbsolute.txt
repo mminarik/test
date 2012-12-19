@@ -1,0 +1,9 @@
+C:\GIT\symfonie-ng\Apps\Prototypes\AssemblyVersionPatcher\bin\Debug\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Apps\Prototypes\AssemblyVersionPatcher\bin\Debug\AssemblyVersionPatcher.pdb
+C:\GIT\symfonie-ng\Apps\Prototypes\AssemblyVersionPatcher\obj\x86\Debug\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Apps\Prototypes\AssemblyVersionPatcher\obj\x86\Debug\AssemblyVersionPatcher.pdb
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\obj\x86\Debug\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\obj\x86\Debug\AssemblyVersionPatcher.pdb
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\bin\Debug\AssemblyVersionPatcher.exe
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\bin\Debug\AssemblyVersionPatcher.pdb
+C:\GIT\symfonie-ng\Tools\AssemblyVersionPatcher\obj\x86\Debug\AssemblyVersionPatcher.csprojResolveAssemblyReference.cache
